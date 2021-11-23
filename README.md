@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacirBrustolin
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning ASP.NET Core
 - 📫 How to reach me mj.brustolin@hotmail.com
 
 <!---
