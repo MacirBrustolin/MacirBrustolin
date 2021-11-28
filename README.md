@@ -10,7 +10,7 @@
 - 👨‍💻 C, C#
 - 👁️ HTML, CSS
 - 💽 SQL Server
-- <!---
+<!---
 - ⚙️ React, Svelte, Vue
 --->
 
