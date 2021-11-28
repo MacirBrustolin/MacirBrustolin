@@ -8,11 +8,11 @@
 
 ## Skills
 - 👨‍💻 C, C#
-<!---
-- ⚙️ React, Svelte, Vue
---->
 - 👁️ HTML, CSS
 - 💽 SQL Server
+- <!---
+- ⚙️ React, Svelte, Vue
+--->
 
 ## Contact
 - [@Macir Jose Brustolin Junior](https://www.linkedin.com/in/macir-jose-brustolin-junior-501a13189/) on Linkedin.
