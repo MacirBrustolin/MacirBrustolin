@@ -1,7 +1,7 @@
 # Hello, I'm  @MacirBrustolin 👋
 
 - 👀 I’m 25, i have a bachelor degree in electrical engineering and i'm currently learning the ways in software development.
-- 🌱 I’m currently learning ASP.NET Core from the book ASP.NET Core in Action.
+- 🌱 I’m currently learning ASP.NET Core using the book ASP.NET Core in Action - Andrew Lock.
 <!---
 - 📫 How to reach me: mj.brustolin@hotmail.com
 --->
