@@ -1,18 +1,18 @@
 # Hello, I'm  @MacirBrustolin 👋
 
 - 👀 I’m 25, i have a bachelor degree in electrical engineering and i'm currently learning the ways in software development.
-- 🌱 I’m currently learning ASP.NET Core using the book ASP.NET Core in Action - Andrew Lock.
+- 🌱 I’m currently learning ASP.NET Core (MVC, Razor Pages, Blazor, Etc.).
 <!---
 - 📫 How to reach me: mj.brustolin@hotmail.com
 --->
 
 ## Skills
 - 👨‍💻 C, C#
+- ⚙️ ASP.NET Core
 - 👁️ HTML, CSS
 - 💽 SQL Server
-<!---
-- ⚙️ React, Svelte, Vue
---->
+
+
 
 ## Contact
 - [@Macir Jose Brustolin Junior](https://www.linkedin.com/in/macir-jose-brustolin-junior-501a13189/) on Linkedin.
