@@ -1,7 +1,8 @@
 # Hello, I'm  @MacirBrustolin 👋
 
-- 👀 I’m 25, i have a bachelor degree in electrical engineering and i'm currently learning the ways in software development.
-- 🌱 I’m currently learning ASP.NET Core (MVC, Razor Pages, Blazor, EF, Etc.).
+- I’m 25, i have a bachelor degree in electrical engineering and i'm currently learning the ways in software development. 
+- I’m currently learning ASP.NET Core (MVC, EF, Etc.). 🌱
+- Feel free to ask me anything.
 <!---
 - 📫 How to reach me: mj.brustolin@hotmail.com
 --->
