@@ -22,7 +22,6 @@
 </div>
 
 
-
 ## Contact
 - [@Macir Jose Brustolin Junior](https://www.linkedin.com/in/macir-jose-brustolin-junior-501a13189/) on Linkedin.
 - mj.brustolin@hotmail.com.
