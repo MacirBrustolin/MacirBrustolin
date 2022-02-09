@@ -24,8 +24,8 @@
 
 <h2>Contact</h2>
 <ul>
-    <li><a href="https://www.linkedin.com/in/macir-jose-brustolin-junior-501a13189/" target="_blank">@Macir Jose Brustolin Junior</a> on Linkedin.</li>
-    <li><a href="mj.brustolin@hotmail.com" target="_blank">mj.brustolin@hotmail.com</a> is e-mail.</li>
+    <li><a href="https://www.linkedin.com/in/macir-brustolin-501a13189/" target="_blank">@Macir Jose Brustolin Junior</a> on Linkedin.</li>
+    <li><a href="mailto:mj.brustolin@hotmail.com" target="_blank">mj.brustolin@hotmail.com</a> is e-mail.</li>
 </ul>
 
 
