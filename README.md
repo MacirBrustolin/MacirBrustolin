@@ -39,7 +39,7 @@
 <br>
 
 <h2>GitHub Trophies</h2>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=macirbrustolin&column=4&margin-w=15&margin-h=15&theme=dark" alt="GitHub Trophies" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=macirbrustolin&column=4&margin-w=15&margin-h=15&theme=oldie" alt="GitHub Trophies" /></a></p>
 
 <br>
 
