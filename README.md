@@ -2,7 +2,7 @@
 <br>
 <ul>
     <li>I’m 25, i have a bachelor degree in electrical engineering and i'm currently learning the ways in software development.</li>
-    <li>I’m currently learning the .NET platform, focusing on Asp.Net Core. 🌱</li>
+    <li>I’m currently learning the .NET platform, focusing on WEB applications (Asp.Net Core MVC/APIs). 🌱</li>
     <li>Feel free to ask me anything.</li>
 </ul>
 <!---
