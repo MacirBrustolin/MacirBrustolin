@@ -1,7 +1,7 @@
 <h1>Hello, I'm  @MacirBrustolin 👋</h1>
 <br>
 <ul>
-    <li>I’m 26 and i'm currently learning the ways in software development.</li>
+    <li>I’m 26 and love programming.</li>
     <li>My main interest is the .NET platform, focusing on the Back-End for Web applications (Asp.Net Core APIs), but i'm also interested in Full-Stack Web applications (HTML, CSS, JS, Etc.). 🌱</li>
     <li>Feel free to ask me anything.</li>
 </ul>
