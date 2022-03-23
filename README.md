@@ -30,7 +30,9 @@
 <div align="center">
    <h3>Code Wars</h3>
    </br>
-   <a href="https://www.codewars.com/users/MacirBrustolin" target="_blank"><img height="30" src="https://www.codewars.com/users/MacirBrustolin/badges/large"></a>
+   <a href="https://www.codewars.com/users/MacirBrustolin" target="_blank">
+      <img height="30" src="https://www.codewars.com/users/MacirBrustolin/badges/large" alt="CodeWars Kyu and Honor">
+   </a>
 </div>
 
 <h2>Contact</h2>
