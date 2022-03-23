@@ -2,7 +2,7 @@
 <br>
 <ul>
    <!--- <li>I’m 26 and love programming.</li>--->
-    <li>My main interest is the .NET platform, focusing on the Back-End for Web applications (Asp.Net Web APIs), but i'm also interested in Full-Stack Web applications (HTML, CSS, JS, Etc.). 🌱</li>
+    <li>My main interest is the .NET platform, focusing on the Back-End for Web applications (Web APIs), but i'm also interested in Full-Stack Web applications (HTML, CSS, JS, Etc.). 🌱</li>
     <li>Feel free to ask me anything.</li>
 </ul>
 <!---
@@ -25,6 +25,14 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/MacirBrustolin/MacirBrustolin/main/microsoftsqlserver-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</br>
+</br>
+</br>
+<div align="center">
+   <h3>Code Wars</h3>
+   </br>
+   <a href="https://www.codewars.com/users/MacirBrustolin" target="_blank"><img height="30" src="https://www.codewars.com/users/MacirBrustolin/badges/large"></a>
 </div>
 
 <h2>Contact</h2>
