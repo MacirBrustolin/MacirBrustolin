@@ -27,8 +27,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </br>
-</br>
-</br>
 <div align="center">
    <h3>Code Wars</h3>
    </br>
