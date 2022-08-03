@@ -2,7 +2,6 @@
 <br>
 <ul>
    <!--- <li></li>--->
-    <li></li>
     <li>Feel free to ask me anything.</li>
 </ul>
 <!---
