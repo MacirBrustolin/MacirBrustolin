@@ -44,7 +44,8 @@
 <br>
 
 <h2>Top Languages</h2>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macirbrustolin&layout=compact&langs_count=10&theme=dark&custom_title=Top Languages" alt="Top Languages" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macirbrustolin&layout=compact&theme=dark"/></p>
+
 
 <br>
 
